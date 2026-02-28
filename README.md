@@ -3,7 +3,7 @@ Code for 'Cross-satellite hierarchical multimodal denoising for hyperspectral im
 
 Dataset Links:
 1. PAV04.mat: 
-2. GF5-6:
+2. GF:
 
 The code in this toolbox implements the ["Cross-satellite hierarchical multimodal denoising for hyperspectral imagery"]. More specifically, it is detailed as follow:
 
